@@ -9,5 +9,5 @@
 |Back-up|Full-server backup for disaster recovery. Retains previous versions and deleted files for 30 days|
 |Versioning|Previous versions are retained for 30 days|
 |Security|Suitable for sensitive data (Classification: High)|
-|Get started|[AskIT Research Drive description](https://askit.vu.nl/tas/public/ssp/content/detail/service?unid=2403f13d68d84c91b426d53812786559&from=d24d0bb4-3ed9-4973-a2db-40c86540fc2c). To apply for Research Drive use the [Research Drive request Form](https://askit.vu.nl/tas/public/ssp/content/serviceflow?unid=3a1d3d68998f42baa6ae1febe80c4d80&from=d24d0bb4-3ed9-4973-a2db-40c86540fc2c&openedFromService=true)|
+|Get started|[AskIT Research Drive description](https://askit.vu.nl/tas/public/ssp/content/detail/service?unid=2403f13d68d84c91b426d53812786559&from=d24d0bb4-3ed9-4973-a2db-40c86540fc2c). To apply for Research Drive use the [Research Drive request form](https://askit.vu.nl/tas/public/ssp/content/serviceflow?unid=3a1d3d68998f42baa6ae1febe80c4d80&from=d24d0bb4-3ed9-4973-a2db-40c86540fc2c&openedFromService=true)|
 |More information|[AskIT self-service portal](https://askit.vu.nl/tas/public/ssp/content/detail/service?unid=2403f13d68d84c91b426d53812786559&from=d24d0bb4-3ed9-4973-a2db-40c86540fc2c)|
