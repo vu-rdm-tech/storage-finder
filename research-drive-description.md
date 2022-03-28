@@ -1,4 +1,4 @@
-|Criterion|Answer|
+|Criterion|Research Drive|
 |--------|------|
 |Short description| With Research Drive you can easily store and share files with other users, inside and outside the VU. Research Drive is suitable for the storage of privacy-sensitive data. Research Drive has version control, which allows you to restore older versions of files yourself if necessary.|
 |Max. Storage size| Unlimited|
