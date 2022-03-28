@@ -1,4 +1,4 @@
-|Criterion|Answer|
+|Criterion|Name of storage solution here|
 |---|---|
 |Short description| |
 |Max. storage size| |
