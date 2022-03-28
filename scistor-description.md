@@ -1,4 +1,4 @@
-|Criterion|Answer|
+|Criterion|SciStor|
 |---|---|
 |Short description|On-Campus large-scale storage, directly usable in combination with all VU applications and can be connected to on-campus instruments. Also available for HPC as well as the Bazis Cluster|
 |Max. storage size|No max.|
