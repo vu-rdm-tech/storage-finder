@@ -9,6 +9,9 @@ The purpose of the tool is to give researchers (automated) guidance for choosing
 ## Contributing
 If you want to contribute to the texts, feel free to open an issue to this repository. Alternatively, you may email the [content lead](mailto:e.j.rodenburg@vu.nl?subject=Storage%20finder). Please also get in touch if you would like to test the tool with us.
 
+## Adding a new storage solution
+A template for adding descriptions for a new storage solution is [here](table-template.md).
+
 ## Licence
 tbc
 
