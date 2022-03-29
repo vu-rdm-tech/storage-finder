@@ -3,7 +3,7 @@
 |Short description|On-Campus large-scale storage, directly usable in combination with all VU applications and can be connected to on-campus instruments. Also available for HPC as well as the Bazis Cluster|
 |Max. storage size|No max.|
 |Costs|€0,10 per Gb per year for reserved space, without backup.<br> €0,20 per Gb per year for reserved space, with backup.<br> Note: not usage-based, but per allocated amount of space. Billing per 2 months.|
-|Sharing and collaboration|Yes, VU only (VUnet-ID required)|
+|Sharing and collaboration|Yes, usually VU only. <br> To give access to research partners outside of the VU please contact [ITvO](mailto:itvo.ucit@vu.nl)|
 |Stored at|VU Campus, The Netherlands|
 |Availability|During office hours. Outside of office hours: best effort. <br>Use on-campus. Off-campus through stepstone or EduVPN with institutional access.|
 |Back-up|Optional|
