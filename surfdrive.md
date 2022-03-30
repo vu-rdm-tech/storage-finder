@@ -10,4 +10,4 @@
 |Versioning|Yes|
 |Security|Medium|
 |Get started|Surfdrive is only available for employees. An account is automatically created which enables you to start using Surfdrive right away. More information is on [the AskIT page](https://askit.vu.nl/tas/public/ssp/content/detail/service?unid=3dde8f6ae4e2453f8a0bd89947dfdb41).|
-|More information|More information is availabel on [the AskIT page](https://askit.vu.nl/tas/public/ssp/content/detail/service?unid=3dde8f6ae4e2453f8a0bd89947dfdb41)|
+|More information|More information is available on [the AskIT page](https://askit.vu.nl/tas/public/ssp/content/detail/service?unid=3dde8f6ae4e2453f8a0bd89947dfdb41)|
