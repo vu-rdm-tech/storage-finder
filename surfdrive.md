@@ -5,7 +5,7 @@
 |Costs|None|
 |Sharing and collaboration|With employees of the VU and other other SURFdrive users. Sharing with others is possible with a public link|
 |Stored at|SURFsara in Amsterdam, the Netherlands|
-|Availability|24/4|
+|Availability|24/7|
 |Back-up|SURF cloud service with daily backup (30 days to retrieve). The VU does not make backups of files stored in SURFdrive.|
 |Versioning|Yes|
 |Security|Medium|
