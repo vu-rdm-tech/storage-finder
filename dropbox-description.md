@@ -1,4 +1,4 @@
-|Criterion|Dropbox for Business|
+|Criterion|Dropbox|
 |---|---|
 |Short description|Cloud storage for sharing files globally|
 |Max. storage size|Unlimited|
