@@ -4,7 +4,7 @@
 |Max. storage size|Depends on the device chosen. Contact IT if you want help with selection of your device|
 |Costs|Depends on the device chosen. Contact IT if you want help with selection of your device|
 |Sharing and collaboration|Depends on the device chosen. Contact IT if you want help with selection of your device|
-|Stored at|Not applicable|
+|Stored at|VU Amsterdam|
 |Availability|Depends on the device chosen. Contact IT if you want help with selection of your device|
 |Back-up|Depends on the device chosen. Contact IT if you want help with selection of your device|
 |Versioning|Depends on the device chosen. Contact IT if you want help with selection of your device|
