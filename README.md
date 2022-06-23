@@ -16,4 +16,4 @@ A template for adding descriptions for a new storage solution is [here](table-te
 tbc
 
 ## Citing this repository
-tbc
+Please cite this repository as "Vrije Universiteit Amsterdam, *Storage finder*, 2022
