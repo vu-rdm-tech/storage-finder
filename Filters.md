@@ -24,5 +24,5 @@ Features
 
 | Tool                          | Low | Medium | High | Very high / secret | Not necessary | VU | Anyone | <500 GB | >500 GB | Basic storage | Compute/HPC | Collaboration tools | Archiving/Publishing |
 | ----------------------------- | --- | ------ | ---- | ------------------ | ------------- | -- | ------ | ------- | ------- | ------------- | ----------- | ------------------- | -------------------- |
-| Custom solution               | x   | x      | x    | x                  | x             | x  | x      | x       | x       | x           | x                   | x                    |
-| Google Drive (campus licence) | x   |        |      |                    | x             | x  | x      | x       | x       |             | x                   |                      |   
+| Custom solution               | x   | x      | x    | x                  | x             | x  | x      | x       | x       |   x           | x                   | x                    | x
+| Google Drive (campus licence) | x   |        |      |                    | x             | x  | x      | x       | x       | x             |                     | x                     |   
