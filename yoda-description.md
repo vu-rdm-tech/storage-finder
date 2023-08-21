@@ -1,4 +1,4 @@
-|Criterion|iRods-Yoda|
+|Criterion|Yoda|
 |---|---|
 |Short description|YODA is an application for institutions that supports RDM throughout the entire research cycle: from the safe and easy storage and sharing of data during the research process, to the sharing of data within research groups and projects and ultimately to research data archiving and publication.|
 |Max. storage size|10 TB (contact us if you have a larger dataset)|
