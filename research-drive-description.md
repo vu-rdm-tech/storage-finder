@@ -1,13 +1,12 @@
 |Criterion|Research Drive|
 |--------|------|
-|Short description| With Research Drive you can easily store and share files with other users, inside and outside the VU. Research Drive is suitable for the storage of privacy-sensitive data. Research Drive has version control, which allows you to restore older versions of files yourself if necessary.|
-|Max. Storage size| Unlimited|
-|Costs | The first 2 terabytes are free of charge. When your storage need exceeds this amount subsequent blocks of 2 terabytes can be added. Above 2 TB € 500 per 2 Tb per year for reserved space.|
-|Sharing and collaboration|This service can only be requested by employees who are active in research, but it is possible to subsequently give colleagues and students access. Access is granted based on the VUnet ID, but it is also possible to grant third parties access.|
-|Stored at|SURFsara, Amsterdam. Cloud storage in Europe|
-|Availability|SURF cloudservice: 24/7|
-|Back-up|Yes|
-|Versioning|Previous versions are retained for 30 days|
-|Security|Suitable for sensitive data (Classification: High)|
-|Get started|[AskIT Research Drive description](https://askit.vu.nl/tas/public/ssp/content/detail/service?unid=2403f13d68d84c91b426d53812786559&from=d24d0bb4-3ed9-4973-a2db-40c86540fc2c). <br> To request Research Drive use the [Research Drive request form](https://askit.vu.nl/tas/public/ssp/content/serviceflow?unid=3a1d3d68998f42baa6ae1febe80c4d80&from=d24d0bb4-3ed9-4973-a2db-40c86540fc2c&openedFromService=true)|
-|More information|[AskIT self-service portal](https://askit.vu.nl/tas/public/ssp/content/detail/service?unid=2403f13d68d84c91b426d53812786559&from=d24d0bb4-3ed9-4973-a2db-40c86540fc2c)|
+|Panel short|Storage and sharing service with a specific focus on research data.|
+|Short description|Research Drive enables you to easily store and share files with other users, inside and outside the VU. <br> Please note: storing data with a 'high' classification in Research Drive is permissible, but may require taking extra security measures. Please get in touch with the Research Data Management Support Desk via [rdm@vu.nl](mailto:rdm@vu.nl) if you want to store high-classification data in Research Drive.|
+|More info URL|(https://services.vu.nl/esc?id=sc_cat_item&sys_id=39d345f097066990e553359fe153af01)|
+|Max. Storage size|Terabytes of data|
+|Costs|<500 GB: free of charge <br> 500 GB - 2 TB: €200 per year <br> >2 TB: €200 + €250 for every TB above 2 TB|
+|Sharing and collaboration|With anyone|
+|Location|SURFsara (NL)|
+|File recovery|Via versioning, deleted files or file restore request|
+|Data classification|Medium, but with additional steps: High|
+|Additional information| |

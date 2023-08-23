@@ -1,13 +1,12 @@
 |Criterion|Yoda|
 |---|---|
-|Short description|YODA is an application for institutions that supports RDM throughout the entire research cycle: from the safe and easy storage and sharing of data during the research process, to the sharing of data within research groups and projects and ultimately to research data archiving and publication.|
-|Max. storage size|10 TB (contact us if you have a larger dataset)|
-|Costs|For storage: 2 TB are free, additional blocks of 2 TB can be added for €500 per year. <br> For archiving: €8 per 250 GB per year|
-|Sharing and collaboration|Data can be shared with both internal and external users. Archived data are only accessible to the project group. Archived datasets can be published as open, restricted or closed data.|
-|Stored at|SURFsara in Amsterdam, the Netherlands|
-|Availability|? |
-|Back-up|Unclear so far |
-|Versioning|?|
-|Security|Suitable for sensitive data (high)|
-|Get started|Via the [Yoda website](https://yoda.vu.nl). A Yoda request form will be available soon|
-|More information|General information is available [here](https://servicedesk.surfsara.nl/wiki/display/WIKI/Yoda+Hosting). More information about Yoda at the VU will be available soon.|
+|Panel short|Securely deposit, share, publish and preserve research data during all stages of a research project.|
+|Short description|YODA is a platform that supports research data management throughout the entire research cycle: from safe and easy storage and sharing of data during the research process, to sharing of data within research groups and projects and, ultimately, to research data archiving and publication.|
+|More info URL|(https://yoda.vu.nl/)|
+|Max. storage size|Terabytes of data|
+|Costs|For storage: <500 GB: free of charge <br> 500 GB - 2 TB €200 per year <br> >2TB €200 + €250 for every TB above 2 TB <br> For archiving: <500 GB: free of charge <br> 500 GB-2 TB: €25 per year <br> >2 TB €25 + €25 for every TB above 2 TB <br> Archiving will be billed in advance for a 10-year period|
+|Sharing and collaboration|With anyone|
+|Stored at|SURFsara (NL)|
+|File recovery|Via versioning or file restore request|
+|Data classification|High|
+|Additional information| |

@@ -1,1 +1,0 @@
-In case your storage needs are so complex that not one storage solution seems suitable, customised solutions are possible. Please get in touch with the [RDM Support Desk](mailto:rdm@vu.nl) to discuss the options.
