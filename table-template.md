@@ -1,8 +1,8 @@
 |Criterion|Name of storage solution here|
 |---|---|
 |Panel short| |
-|More info link| |
 |Short description| |
+|More info URL| |
 |Max. storage size| |
 |Costs| |
 |Sharing and collaboration| |
