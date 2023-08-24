@@ -5,25 +5,25 @@ Please note that for the purposes of the table the filter options are not separa
 ## Filters
 Available filters are:
 
-Data classification
+**Data classification**
 Filter type: single
 - Low
 - Medium
 - High
 - Very high / secret
  
-Data sharing
+**Data sharing**
 Filter type: single
 - Not necessary
 - With VU researchers
 - With anyone
 
-Data volume
+**Data volume**
 Filter type: single
 - < 500 GB
 - \> 500 GB
 
-Features
+**Features**
 Filter type: multiple
 - Basic storage
 - Compute/HPC
@@ -49,7 +49,7 @@ Filter type: multiple
 ## Information about each filter
 
 ### Data classification
-Data classification *here* refers to the type of data regarding privacy and confidentiality. It is meant to provide guidelines for storing, accessing, and processing data in a secure and responsible manner.
+Data classification **here** refers to the type of data regarding privacy and confidentiality. It is meant to provide guidelines for storing, accessing, and processing data in a secure and responsible manner.
 
 The [data classification tool](https://vu.nl/en/research/dataclassification) can help you to determine the classification for Availability, Integrity and Confidentiality.
 
