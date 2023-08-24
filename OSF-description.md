@@ -7,6 +7,6 @@
 |Costs|None|
 |Sharing and collaboration|With anyone|
 |Location|Google (EU)|
-|File recovery|NOT possible|
+|File recovery|NOT possible |
 |Data classification|Low|
 |Additional information| |
